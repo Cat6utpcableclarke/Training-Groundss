@@ -1,5 +1,5 @@
 ## Clone the repo
-``git clone https://github.com/23000003/Training-Grounds.git``
+``git clone https://github.com/<YourGithubName>/Training-Grounds.git``
 
 ## Download Asset File
 https://drive.google.com/drive/folders/12JUaU9DAj574dKIzzybWmqo4Mg2tPJ9J?usp=sharing
