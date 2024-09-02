@@ -13,3 +13,13 @@ Click Add project and choose the the folder "Training Grounds" that you cloned
 <br/>
 ![image](https://github.com/user-attachments/assets/2ceb9973-4de0-4020-9b43-efe025c71910)
 
+
+## ROADMAP
+
+- [ ] Player and Gun Functionality
+- [ ] Map (Use Blender)
+- [ ] AI Bots Functionality
+- [ ] Main Menu UI + Interactivity
+- [ ] Training Grounds Mode
+- [ ] Free for all using AI Bots
+
