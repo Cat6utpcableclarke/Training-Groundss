@@ -20,5 +20,5 @@ Click Add project and choose the the folder "Training Grounds" that you cloned
 - [ ] **AI Bots Functionality**
 - [ ] **Main Menu UI + Interactivity**
 - [ ] **Training Grounds Mode**
-- [ ] **Free for all using AI Bots**
+- [ ] **Free for all Mode using AI Bots (Optional)** 
 
