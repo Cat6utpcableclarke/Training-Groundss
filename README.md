@@ -14,11 +14,13 @@ Click Add project and choose the the folder "Training Grounds" that you cloned
 
 
 ## ROADMAP
-- [ ] **Player and Gun Functionality**
-- [ ] **Interacting with Objects**
-- [ ] **Map (Use Blender)**
-- [ ] **AI Bots Functionality**
-- [ ] **Main Menu UI + Interactivity**
+- [ ] **Player and Gun Functionality** (me)
+- [ ] **Interacting with Objects** (me)
+- [ ] **Map (Use Blender)** (me n george)
+- [ ] **AI Bots Functionality** (george)
+- [ ] **Main Menu UI + Interactivity** (von and canal)
+
+    === done if all done ==
 - [ ] **Training Grounds Mode**
 - [ ] **Free for all Mode using AI Bots (Optional)** 
 
