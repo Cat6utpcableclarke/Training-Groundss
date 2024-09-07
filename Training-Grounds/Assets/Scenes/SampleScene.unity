@@ -664,6 +664,22 @@ PrefabInstance:
       propertyPath: m_FontData.m_Font
       value: 
       objectReference: {fileID: 12800000, guid: fae067962e5934395be31c8aba4a3455, type: 3}
+    - target: {fileID: 114836595155508220, guid: fc22b85edac514e06860d54abca21ad2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Mode
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 114836595155508220, guid: fc22b85edac514e06860d54abca21ad2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 870819460}
+    - target: {fileID: 114836595155508220, guid: fc22b85edac514e06860d54abca21ad2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Quit
+      objectReference: {fileID: 0}
+    - target: {fileID: 114836595155508220, guid: fc22b85edac514e06860d54abca21ad2, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: menu, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 114859074240049876, guid: fc22b85edac514e06860d54abca21ad2, type: 3}
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.size
       value: 2
